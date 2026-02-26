@@ -58,9 +58,7 @@ cd Multichannel_Transcription-AWS_transcribe
 python -m venv venv
 
 3. Activate:
-venv\Scripts\activate
-pip install -r requirements.txt
-python server.py
+venv\Scripts\activate, pip install -r requirements.txt, python server.py
 
 4. Open:
 http://localhost:8000
