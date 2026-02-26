@@ -57,16 +57,15 @@ cd Multichannel_Transcription-AWS_transcribe
 2. Create Virtual Environment
 python -m venv venv
 
-Activate:
+3. Activate:
 venv\Scripts\activate
 pip install -r requirements.txt
 python server.py
 
-Open:
+4. Open:
 http://localhost:8000
-Multi-Device Testing
 
-Expose local server:
+5. Expose local server:
 ngrok http 8000
 Use the HTTPS link generated: https://xxxxx.ngrok-free.app/?room=demo
 All participants must use: The same ngrok URL & The same ?room= value
