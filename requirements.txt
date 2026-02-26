@@ -1,0 +1,5 @@
+fastapi
+uvicorn[standard]
+amazon-transcribe
+awscrt
+python-dotenv
