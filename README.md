@@ -72,11 +72,3 @@ Expose local server:
 ngrok http 8000
 Use the HTTPS link generated: https://xxxxx.ngrok-free.app/?room=demo
 All participants must use: The same ngrok URL & The same ?room= value
-
-Project Structure
-.
-├── server.py
-├── requirements.txt
-├── .gitignore
-├── README.md
-└── LICENSE
