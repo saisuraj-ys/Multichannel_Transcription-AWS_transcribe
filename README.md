@@ -1,8 +1,6 @@
 # Multichannel_Transcription-AWS_transcribe
-Multichannel Real-Time Transcription – AWS Transcribe
 
 ## Overview
-
 This project implements a real-time, multi-user speech transcription system using:
 AWS Transcribe Streaming API
 FastAPI (WebSocket backend)
