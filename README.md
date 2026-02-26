@@ -1,5 +1,4 @@
 # Multichannel_Transcription-AWS_transcribe
-
 ## Overview
 This project implements a real-time, multi-user speech transcription system using:
 AWS Transcribe Streaming API
